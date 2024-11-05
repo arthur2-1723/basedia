@@ -1,0 +1,22 @@
+opinion,label
+"Este produto é excelente!",Positivo
+"Não gostei deste produto.",Negativo
+"Foi uma experiência maravilhosa!",Positivo
+"Este produto é muito ruim.",Negativo
+"Adorei esse produto!",Positivo
+"O pior que já comprei.",Negativo
+"Recomendo para todos!",Positivo
+"Não vale o preço que cobram.",Negativo
+"Um ótimo investimento!",Positivo
+"Não funcionou como esperado.",Negativo
+"Esse produto é uma verdadeira obra-prima!",Positivo
+"Estou impressionado com a qualidade!",Positivo
+"Nunca vi algo tão incrível!",Positivo
+"Esse produto superou todas as minhas expectativas!",Positivo
+"Não posso acreditar que alguém fez algo tão bom!",Positivo
+"Este produto é péssimo!",Negativo
+"Eu tive uma experiência péssima com este produto.",Negativo
+"Esse produto é simplesmente péssimo.",Negativo
+"Não comprem este produto, é péssimo!",Negativo
+"Foi a pior compra da minha vida, péssimo!",Negativo
+"Eu não recomendo, péssimo serviço!",Negativo
